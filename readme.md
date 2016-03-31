@@ -1,4 +1,5 @@
-# all-limit
+# all-limit [![Build Status](https://secure.travis-ci.org/ben-bradley/all-limit.png?branch=master)](https://travis-ci.org/ben-bradley/all-limit)
+
 
 Like `Promise.all()`, but with a concurrency limiter.
 
